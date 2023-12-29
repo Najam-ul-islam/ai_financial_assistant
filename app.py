@@ -2,6 +2,7 @@ from financial_assistant import FinancialAssistant as fa
 from typing import Any
 import streamlit as st
 import time
+import openai
 
 # Streamlit UI for sidebar configuration
 with st.container():
