@@ -12,5 +12,6 @@ AI Financial Assistant using OpenAI Assistant API
 - Select the "Financial Assistant" option.
 - Input your financial query.
 - Click "Run Financial Assistant" and experience instant, AI-powered insights!
-📈 Why AI Financial Assistance?
+
+### 📈 Why AI Financial Assistance?
 Empower your financial decision-making with the speed and accuracy of AI. Whether you're a seasoned investor or just getting started, our application simplifies complex financial information, making it accessible to everyone.
